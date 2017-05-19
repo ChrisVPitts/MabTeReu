@@ -1,0 +1,5 @@
+Folders for the assets and scripts used are all prefaced by an _
+Ex) _Scenes- scenes folder for game
+
+This pushes them all to the top of the list, making them easier to find and use
+
