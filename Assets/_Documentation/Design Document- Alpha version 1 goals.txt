@@ -1,0 +1,16 @@
+This is the first goal set for a very basic prototype of the combat system
+
+For a full beta description see Beta goals
+
+Our first alpha goals are ignoring most everything except combat
+----------Description---------------
+A small, 1 room rocky cave based dungeon(since the plan for the first dungeon in game is a mine) with a moving, attacking character and a fully immoble, punching bag enemy(that is also the character)
+
+----------Needed Assets----------
+-Character model + texture with sword
+-Character walking, basic attacking, defending skill and attacking skill(4 animations)
+-Rocky ground texture
+-Rocky wall texture(for background)
+-basic lighting(in unity)
+------------Goal--------------
+Animate a character that can walk, attack 3 times before knocking back the enemy, and activate defensive and offensive skills, where defensive assumes a defensive stance and offensive knocks the enemy back as if it was a full 3 hit combo

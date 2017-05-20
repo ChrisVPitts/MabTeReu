@@ -1,0 +1,36 @@
+This is also found in the beta goals design document, but that was getting a bit long so i broke it up for readability
+-----------------------------------------
+Works very much like mabinogi's but with major changes
+Each character will have 3 main methods of engaging an enemy, you can choose to use normal attacks for a small stamina cost, or use defensive or offensive skills
+Basic attacks are fast and activate instantly, while defensive skills and offensive skills take time but are more varied
+The challange is in choosing what to use when, as much like mabi there is a triangle
+
+Basic attacks beat defensive skills
+Defensive skills beat offensive skills
+and offensive skills beat basic attacks
+
+Using the correct skill results in canceling or blocking the enemies, and then stuns them for a small amount of time
+in terms of ties, rather than random chance, first comes a weapon triangle, unless fire emblem wants to sue us we can change it around
+Swords beat axes
+Axes beat lances
+lances beat swords
+
+so sword(basic attack) > axe(basic attack) but sword(atkSkill) < axe(defSkill)
+
+and defense skill vs defense skill is easy, it's just a staredown
+
+an example of combat could be be a wolf that dodges(guard), bites(atkSkill) and scratches(basic attacks)
+if you guard you can block their bites, which do more damage than basic attacks but are telegraphed, and the wolf will be stunned for a moment allowing you to attack
+
+Each weapon/monster will have a 3-hit combo for basic attacks, after which the enemy or you will be knocked back
+in the event of a complete tie(sword vs sword basic attacks for example) we could either roll a dice or just give it to the player to make the game a bit easier, depending on how the game is working out
+
+defensive skills with either work(block you from getting stunned or taking massive damage) or fail(being broken through and the enemies attack works anyway
+
+Offensive skills will either be blocked(dealing reduced/no stun or knockback) or break through(pushing an enemy back and dealing full damage)
+
+We could have enemies that do different things, like mages that release powerful attacks that must be blocked or dodged, but have no defensive skills, or the wolf example could have no dodge or basic attacks making it easier to predict, and harder enemies can use more than one ability and use it in different ways
+
+we could also include difficulty options that use this to our advantage, like easy mode reducing the stun you take and letting you play it more like a hackandslash, where hard mode increases your stun and damage you take to punish bad planning
+
+The goal with this system would be to create rewarding, thoughtful combat, kind of like darksouls i guess where prediction and learning your character's strengths are needed to win.

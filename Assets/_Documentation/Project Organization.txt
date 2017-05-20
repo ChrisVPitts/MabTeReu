@@ -3,3 +3,4 @@ Ex) _Scenes- scenes folder for game
 
 This pushes them all to the top of the list, making them easier to find and use
 
+In other news, I figured out you could just stick .txt files into here and they show up in unity!
