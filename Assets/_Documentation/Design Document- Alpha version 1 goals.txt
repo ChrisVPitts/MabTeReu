@@ -1,6 +1,6 @@
 This is the first goal set for a very basic prototype of the combat system
 
-For a full beta description see Beta goals
+For a full beta description see Beta goals in google docs
 
 Our first alpha goals are ignoring most everything except combat
 ----------Description---------------
